@@ -13,7 +13,8 @@
     "codespaces": {
       "openFiles": [
         "src/App/index.tsx",
-        "src/Flow/CustomNode.tsx"
+        "src/Flow/CustomNode.tsx",
+        "src/Flow/index.tsx"
       ]
     }
   },
