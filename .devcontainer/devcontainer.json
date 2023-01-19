@@ -12,7 +12,8 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        "src/App.js"
+        "src/App/index.tsx",
+        "src/Flow/CustomNode.tsx"
       ]
     }
   },
